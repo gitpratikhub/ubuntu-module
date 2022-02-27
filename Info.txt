@@ -1,0 +1,5 @@
+pip uninstall <packagename>
+
+install package from github
+pip install git+https://github.com/jkbr/httpie.git#egg=httpie
+link-https://stackoverflow.com/questions/15268953/how-to-install-python-package-from-github
